@@ -1,3 +1,4 @@
 # 1st-Demo
-This is my first Git repository
-Author Dhrubo
+This is my first Git repository.
+<br>
+Author-Dhrubo
